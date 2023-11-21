@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 -->
 
-![html (2)](https://github.com/umutsar/umutsar/assets/78661309/a182fda9-3e95-4519-8c5e-e860c5e1f22f) HTML
+![html (2)](https://github.com/umutsar/umutsar/assets/78661309/a182fda9-3e95-4519-8c5e-e860c5e1f22f) **HTML**
 
-![css-3 (1)](https://github.com/umutsar/umutsar/assets/78661309/c20d0a6b-a1c7-4798-aa77-071b0de6ec9c) CSS
+![css-3 (1)](https://github.com/umutsar/umutsar/assets/78661309/c20d0a6b-a1c7-4798-aa77-071b0de6ec9c) **CSS**
 
-![java-script (1)](https://github.com/umutsar/umutsar/assets/78661309/ac44265e-7230-4a25-9e67-123c1e2df497) JavaScript
+![java-script (1)](https://github.com/umutsar/umutsar/assets/78661309/ac44265e-7230-4a25-9e67-123c1e2df497) **JavaScript**
 
