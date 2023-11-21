@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...!
 
 -->
-
-[html](https://github.com/umutsar/umutsar/assets/78661309/0ab1ecb8-5885-4c2c-a4ab-6b693816f999)
+![image](https://github.com/umutsar/umutsar/assets/78661309/0ab1ecb8-5885-4c2c-a4ab-6b693816f999)
