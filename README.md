@@ -16,6 +16,15 @@ Here are some ideas to get you started:
 
 
 -->
+<div style="display: flex; align-items: center;">
+    <img src="https://github.com/umutsar/umutsar/assets/78661309/a182fda9-3e95-4519-8c5e-e860c5e1f22f" alt="HTML image">
+    <p style="margin-left: 10px;">HTML</p>
+</div>
+
+<div style="display: flex; align-items: center;">
+    <img src="link_to_image2" alt="image2" width="100" height="100">
+    <p style="margin-left: 10px;">CSS</p>
+</div>
 
 ![html (2)](https://github.com/umutsar/umutsar/assets/78661309/a182fda9-3e95-4519-8c5e-e860c5e1f22f) **HTML**
 
