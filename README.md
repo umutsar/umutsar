@@ -22,7 +22,12 @@ Here are some ideas to get you started:
 </div>
 
 <div style="display: flex; align-items: center;">
-    <img src="link_to_image2" alt="image2" width="100" height="100">
+    <img src="https://github.com/umutsar/umutsar/assets/78661309/c20d0a6b-a1c7-4798-aa77-071b0de6ec9c" alt="CSS image">
+    <p style="margin-left: 10px;">CSS</p>
+</div>
+
+<div style="display: flex; align-items: center;">
+    <img src="https://github.com/umutsar/umutsar/assets/78661309/ac44265e-7230-4a25-9e67-123c1e2df497" alt="JS image">
     <p style="margin-left: 10px;">CSS</p>
 </div>
 
