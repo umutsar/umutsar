@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![<instagram>](https://img.shields.io/badge/<tikla>-<Buton rengi>?style=for-the-badge&logo=<İkon ismş>&logoColor=<red>)
+![image](https://github.com/umutsar/umutsar/assets/78661309/64708301-6d3e-4eaf-90b0-ada9efddbc7a)
