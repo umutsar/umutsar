@@ -2,4 +2,7 @@
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=umutsar&show_icons=true&theme=transparent)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umutsar&layout=compact&theme=transparent)
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=umutsar&theme=transparent)
+<img src="https://github-readme-stats.vercel.app/api?username=umutsar&show_icons=true&theme=transparent" style="height:460px;" alt="Most Used Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umutsar&layout=compact&theme=transparent" style="height:460px;" alt="Most Used Languages">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=umutsar&theme=transparent" alt="Most Commit Language">
+
