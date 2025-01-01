@@ -1,4 +1,4 @@
- <img src="https://umutsar.net/lib/updated_github_profile.png" alt="An image in here." style="width: 100%; height: 100%;">
+ <img src="https://umutsar.net/lib/updated_github_profile_christmas.png" alt="An image in here." style="width: 100%; height: 100%;">
 
 <div style="position: relative; display: flex; align-items: center; width: 100%;">
   <img src="https://github-readme-stats.vercel.app/api?username=umutsar&show_icons=true&theme=transparent" style="height:190px;" alt="Most Used Languages">
